@@ -9,6 +9,12 @@ I chose Digital Ocean for VPS and Google Domains.
 
 3. What domain name did you register?
 rebekah-johnson.dev
+I chose this .dev domain because I wanted to
+reuse the domain after class ends. Every .dev
+domain is on the HSTS preload list, which makes
+HTTPS required on all connections, so I added
+support via LetsEncrypt.
+Reference: https://domains.google/tld/dev/
 
 4. What's the URL of your Github repository for this assignment?
 https://github.com/beccajohnson17/CS4550-Web-Development
@@ -19,7 +25,7 @@ a new server/VPS. I struggled with being paranoid, even after
 taking all the prescribed steps. I also became a lot more familiar
 with tools like vim and tmux in the process. Even though I
 struggled at times, I do feel like a learned a lot by doing this
-assignment and  I considered it valuable.
+assignment and I considered it valuable.
 
 
 And here's a list of tasks for grading comments. Just leave this here:
