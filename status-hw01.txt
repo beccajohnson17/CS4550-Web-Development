@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Rebekah Johnson
+
+2. Which VPS & domain providers did you choose?
+I chose Digital Ocean for VPS and Google Domains.
+
+3. What domain name did you register?
+rebekah-johnson.dev
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/beccajohnson17/CS4550-Web-Development
+
+5. Which parts of this assignment did you have trouble with, if any?
+I did a lot of research on best security practices when setting up
+a new server/VPS. I struggled with being paranoid, even after 
+taking all the prescribed steps. I also became a lot more familiar
+with tools like vim and tmux in the process. Even though I
+struggled at times, I do feel like a learned a lot by doing this
+assignment and  I considered it valuable.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
+
