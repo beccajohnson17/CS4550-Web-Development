@@ -1,0 +1,48 @@
+* {
+	font-family: 'Orbitron', sans-serif;
+}
+
+table,
+th,
+td {
+	margin-top: 20px;
+	border: 1px solid white;
+	background-color: black;
+	border-radius: 3px;
+	max-width: 50px;
+	word-wrap: break-word;
+}
+/* box-shadow source: https://css-tricks.com/almanac/properties/b/box-shadow/ */
+button {
+	background-color:rgb(22, 22, 22); 
+	box-shadow:
+	0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+	0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+	0 12.5px 10px rgba(0, 0, 0, 0.06),
+	0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+	0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+	0 100px 80px rgba(0, 0, 0, 0.12);
+	border: none;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: gray;
+}
+
+th,
+td {
+	padding: 15px;
+	text-align: center;
+}
+
+#display {
+	background-color: rgb(15, 168, 15);
+	padding: 5px;
+	text-align: right;
+	color: red;
+}

@@ -1,0 +1,50 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Rebekah Johnson
+
+2. What hostname did you deploy to?
+rebekah-johnson.dev
+
+3. What's the link to your repository on github with your code?
+https://github.com/beccajohnson17/CS4550-Web-Development
+
+4. How many HTML / CSS tutorial exercises did you do?
+I did all of the tutorials, and some of the responsive.
+
+5. How comfortable do you feel with HTML and CSS now?
+Pretty comfortable!
+
+6. How many JS tutorial exercises did you do?
+All of them.
+
+7. How comfortable do you feel with JS now?
+More comfortable with the syntax, I struggle with functional
+programming.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+It didn't for animal.html at first, but I was able to
+fix the errors by changing my <div> tags to <span> tags.
+
+9. Which parts of this assignment did you have trouble with, if any?
+I struggled with the amount of time required to be dedicated to each
+portion of this assignment. It takes me longer than the typical
+student but this week I started early and still struggled to finish
+with many hours dedicated each day. The amount I learn in the
+process is incredible, though!
+
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
