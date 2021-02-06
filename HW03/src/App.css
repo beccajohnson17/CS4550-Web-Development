@@ -1,0 +1,43 @@
+* {
+  font-family: 'Roboto';
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 80px;
+  margin-bottom: 15px;
+}
+p { 
+  text-align: center;
+  font-size: 10pt;
+  margin-bottom: 40px;
+ }
+
+ /*w3 schools refresher https://www.w3schools.com/howto/howto_css_center_button.asp*/
+ .btn-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+
+
+ /* https://stackoverflow.com/questions/28261287/how-to-change-btn-color-in-bootstrap */
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #6D00C3;
+  border-color: #6D00C3;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.btn-secondary {
+  margin-top: 15px;
+}
+
+.play-again {
+  font-size: 20pt;
+  margin-bottom: 25px;
+}
+
+.col {
+  margin: 20px 20px 20px 20px;
+}
