@@ -53,16 +53,12 @@ function App() {
   const [secret, setSecret] = useState(makeSecret()); //generates a secret
   const [guessHistory, setGuessHistory] = useState([]); //a list of all guesses made so far
   const [currentGuess, setCurrentGuess] = useState({}); // the guess the user is currently typing but hasn't entered
-  const [bulls, showBulls] = useState(""); // the bulls in a given answer (right number, right spot)
-  const [cows, showCows] = useState(""); // the cows in a given answer (right number, wrong spot)
   const [lives, setLives] = useState(8); // the number of lives, or guesses left
   const [currentInput, setCurrentInput] = useState("");
 
   function reset() {
     setGuessHistory([]);
     setSecret(makeSecret());
-    showCows("");
-    showBulls("");
     setLives("8");
     setCurrentInput("");
     setCurrentGuess({});
